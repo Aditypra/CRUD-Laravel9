@@ -44,7 +44,7 @@
     ```bash
     copy .env.example .env
     ```
-5. Run XAMPP and create an empty Database named wtb_travel
+5. Run XAMPP and create an empty Database
    </br>Create tables into database using Laravel migration and seeder:
     ```bash
     php artisan migrate:fresh --seed
